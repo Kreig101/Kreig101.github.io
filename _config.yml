@@ -1,11 +1,11 @@
 # Site settings
 author: Craig Storer
-title: 
+title: Starting to code
 header-img: img/home-bg.png
 email: craigstorer@gmail.com
 copyright_name: Craig Storer
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First day
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Kreig101
