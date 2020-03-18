@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Learning tocode? Again"
-date:       2020-03-18 15:54:45 +0000
+title:      "Learning to code? Again"
+date:       2020-03-18 11:54:46 -0400
 permalink:  learning_tocode_again
 ---
 
